@@ -1,0 +1,42 @@
+*{
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
+.prev-arrow{
+  /* DEBUG:  */
+  border: 5px solid green;
+  width: 10%;
+  height: 50px;
+}
+
+.foto-balls-box{
+  /* DEBUG:  */
+  border: 5px solid black;
+  width: 60%;
+  height: 500px;
+}
+
+.fotos{
+  /* DEBUG:  */
+  border: 5px solid yellow;
+  height: 80%;
+}
+
+.balls{
+  /* DEBUG:  */
+  border: 5px solid blue;
+  height: 20%;
+
+}
+
+.next-arrow{
+  /* DEBUG:  */
+  border: 5px solid red;
+  width: 10%;
+  height: 50px;
+}
