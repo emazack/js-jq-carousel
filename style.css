@@ -23,8 +23,8 @@ main{
 }
 
 /* foto */
-.fotos{
-
+img{
+  display: none;
 }
 
 /* pallini */
@@ -43,12 +43,20 @@ main{
   width: 4%;
 }
 
-/* Classi varie per lo slider */
+/* Classi varie */
 
 .visible{
   display: block;
 }
 
-.notvisibile{
-  display: none;
+.first{
+
 }
+
+.last{
+
+}
+
+/* .notvisibile{
+  display: none;
+} */
